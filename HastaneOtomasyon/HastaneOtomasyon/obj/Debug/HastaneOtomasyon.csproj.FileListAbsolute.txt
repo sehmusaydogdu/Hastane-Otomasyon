@@ -1,0 +1,86 @@
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Hastalar.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Muayeneler.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doktorlar.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Anasayfa.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaEkle.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkle.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGuncelleme.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGuncelle.resources
+C:\Users\AC\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.KullanıcıKontrol.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkle.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGuncelle.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doktorlar.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Anasayfa.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaEkle.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGuncelleme.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Hastalar.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.KullanıcıKontrol.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Muayeneler.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+E:\Lesson Notes\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkle.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGuncelle.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doktorlar.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Anasayfa.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaEkle.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGuncelleme.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Hastalar.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.KullanıcıKontrol.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Muayeneler.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\acer\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkle.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGuncelle.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doktorlar.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Anasayfa.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaEkle.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGuncelleme.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Hastalar.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.KullanıcıKontrol.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Muayeneler.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\acer\Desktop\Test Odevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkle.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGuncelle.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doktorlar.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Anasayfa.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaEkle.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGuncelleme.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Hastalar.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.KullanıcıKontrol.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Muayeneler.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+E:\Lesson Notes\Odevler\YazilimTestiOdevi\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
